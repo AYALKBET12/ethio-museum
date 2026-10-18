@@ -4,6 +4,9 @@ An evolving digital museum for Ethiopian history, cultural heritage, UNESCO
 World Heritage sites, living traditions, and further reading. The project
 contains a React/Vite frontend and an Express backend.
 
+This project presents Ethiopian historical heritage and UNESCO-listed tangible
+and intangible cultural heritage.
+
 ## Run locally
 
 From the project root, install dependencies and start both services:
