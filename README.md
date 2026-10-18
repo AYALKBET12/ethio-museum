@@ -1,6 +1,8 @@
 # Ethiopian Museum
 
-The project contains a React/Vite frontend and an Express backend.
+An evolving digital museum for Ethiopian history, cultural heritage, UNESCO
+World Heritage sites, living traditions, and further reading. The project
+contains a React/Vite frontend and an Express backend.
 
 ## Run locally
 
